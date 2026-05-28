@@ -136,7 +136,7 @@ export default function App() {
         <div style={{ display:"flex", alignItems:"center", gap:12 }}>
           <div style={{ width:36, height:36, borderRadius:9, background:"linear-gradient(135deg,#7b6ff0,#00dcff)", display:"flex", alignItems:"center", justifyContent:"center", fontWeight:700, fontSize:14, color:"#fff" }}>CD</div>
           <div>
-            <div style={{ fontSize:17, fontWeight:600, letterSpacing:"0.05em" }}>CHRONOS<span style={{color:C.cyan}}>DEV</span></div>
+            <div style={{ fontSize:17, fontWeight:600, letterSpacing:"0.05em" }}>Universidad<span style={{color:C.cyan}}>Mariano Gálvez</span></div>
             <div style={{ fontSize:9, color:C.textMuted, letterSpacing:"0.14em" }}>SERVER AUTO-SCALING SIMULATOR</div>
           </div>
         </div>
@@ -306,7 +306,7 @@ export default function App() {
 
       {/* FOOTER */}
       <div style={{ marginTop:14, paddingTop:10, borderTop:`0.5px solid ${C.border}`, display:"flex", justifyContent:"space-between", fontSize:9, color:C.textMuted }}>
-        <span>CHRONOS-DEV © 2026 · Software Development & AI Integration · Guatemala City, GT</span>
+        <span>Andrea Izabel Godinez Cruz 0903-24-25969 | Carlos Vallardo Morales González 0903-25-16887 | Rony Alberto Méndez Fuentes 0903-25-29637</span>
         <span>U(t) = −t³+9t²+48t+200  ·  U'(t) = −3t²+18t+48</span>
       </div>
 
